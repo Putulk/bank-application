@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to spring boot micro-services local-Api's"
+  contactDetails:
+    name: "Putul"
+    email: "putulkumari0997@gmail.com"
+  onCallSupport:
+    -(+91) 9999999999
+    -(+91) 8888888888

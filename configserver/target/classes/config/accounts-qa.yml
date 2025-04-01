@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to spring boot micro-services qa-Api's"
+  contactDetails:
+    name: "Putul"
+    email: "putulkumari0997@gmail.com"
+  onCallSupport:
+    -(+91) 9999999999
+    -(+91) 8888888888
