@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to spring boot micro-services prod-Api's"
+  contactDetails:
+    name: "Putul"
+    email: "putulkumari0997@gmail.com"
+  onCallSupport:
+    -(+91) 9999999999
+    -(+91) 8888888888
