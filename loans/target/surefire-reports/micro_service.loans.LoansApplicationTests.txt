@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: micro_service.loans.LoansApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.871 s -- in micro_service.loans.LoansApplicationTests
